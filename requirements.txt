@@ -1,0 +1,2 @@
+datadog==0.35.0
+kubernetes==23.3.0
